@@ -1,1 +1,1 @@
-echo "Hello!"
+echo "Hello! The date is $(date)"
